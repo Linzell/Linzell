@@ -1,4 +1,4 @@
-### Hi there, I'm Charlie 👋
+### Hi there, I'm Charlie - aka [Linzell][linkedin] 👋
 
 - 🔭 Working on multiple frontend and backend project using Angular and Symfony
 - 🌱 I’m currently learning everything :scream:
@@ -72,11 +72,13 @@
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
-<!--START_SECTION:activity-->
+<!--RECENT_ACTIVITY:last_update-->
 
+<!--RECENT_ACTIVITY:last_update_end-->
+<!--RECENT_ACTIVITY:start-->
 
-<!--END_SECTION:activity-->
-
+<!--RECENT_ACTIVITY:end-->
+  
 </details>
 
 <details>
@@ -87,4 +89,4 @@
 
 </details>
 
-
+[linkedin]: https://www.linkedin.com/in/charlie-cohen-47b241a2/ "LinkedIn"
