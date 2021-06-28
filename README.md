@@ -5,14 +5,14 @@
 - 🔭 Working on multiple frontend and backend project using Angular and Symfony
 - 👯 I'm looking for an internship
 
-## Connect with me:
+## Connect with me
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/charlie-cohen-47b241a2/)
 
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Linzellart)
 <br>
 
-## Expertise :
+## Expertise
 
 <img align="left" alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 
@@ -27,6 +27,6 @@
 <img align="left" alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 <br>
 
-##
+## Blog posts
 
 
