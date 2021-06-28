@@ -3,6 +3,7 @@
 
 - 🌱 I’m currently learning Web developping in Webforce 3
 - 🔭 Working on multiple frontend and backend project using Angular and Symfony
+- 👯 I'm looking for an internship
 
 <!--
 **Linzell/Linzell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
