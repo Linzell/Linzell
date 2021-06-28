@@ -1,8 +1,7 @@
-### Hello World 👋
-✨ I am a junior developper in France ✨
+### Hi there, I'm Charlie 👋
 
-- 🌱 I’m currently learning Web developping in Webforce 3
 - 🔭 Working on multiple frontend and backend project using Angular and Symfony
+- 🌱 I’m currently learning everything :scream:
 - 👯 I'm looking for an internship
 <!--
 - 🤔 I’m looking for help with ...
@@ -11,17 +10,20 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<br>
+<br />
 
-## Connect with me
+---
+
+### Connect with me
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/charlie-cohen-47b241a2/)
 
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Linzellart)
-<br>
-<br>
+<br />
 
-## Expertise
+---
+
+### Languages and Tools
 
 <img align="left" alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 
@@ -51,20 +53,34 @@
 <!--<img align="left" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />-->
 
 <!--<img align="left" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />-->
-<br>
-<br>
+<br />
+<br />
 
-## Blog posts
+---
+
+### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 
 <!-- BLOG-POST-LIST:END -->
-<br>
-<br>
+<br />
+<br />
 
-## Activity in Github
+---
 
-<!--<img align="left" alt="stat" src="https://github-readme-stats.vercel.app/api?username=Linzell&theme=blue-green" />-->
-<img align="left" alt="stat2" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Linzell&theme=blue-green" />
-<br>
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+</details>
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+<br />
+<img align="left" alt="mysql" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Linzell&theme=blue-green&show_icons=true&hide_border=true" />
+
+</details>
 
 
