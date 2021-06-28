@@ -36,6 +36,27 @@
 
 ---
 
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+<!--RECENT_ACTIVITY:last_update-->
+Last Updated: Monday 2021/06/28, 8:54:33 PM GMT+0200
+<!--RECENT_ACTIVITY:last_update_end-->
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:end-->
+  
+</details>
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+<br />
+<img align="left" alt="mysql" src="https://github-readme-stats.vercel.app/api?username=Linzell&show_icons=true&hide_border=true" />
+<img align="left" alt="mysql" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Linzell&show_icons=true&hide_border=true" />
+
+</details>
+
+---
+
 <h2>Languages and Tools</h2>
 
 <h2><b>Front-End</b></h2>
@@ -68,25 +89,6 @@
 
 <img  src="https://img.shields.io/badge/Windows-Windows 10(Insider)-0078D6?style=for-the-badge&logo=windows&logoColor=white"> <img  src="https://img.shields.io/badge/Fedora-Workstation-0078D6?style=for-the-badge&logo=fedora&logoColor=white">
 
----
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-<!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday 2021/06/28, 8:54:33 PM GMT+0200
-<!--RECENT_ACTIVITY:last_update_end-->
-<!--RECENT_ACTIVITY:start-->
-
-<!--RECENT_ACTIVITY:end-->
-  
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-<br />
-<img align="left" alt="mysql" src="https://github-readme-stats.vercel.app/api?username=Linzell&show_icons=true&hide_border=true" />
-<img align="left" alt="mysql" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Linzell&show_icons=true&hide_border=true" />
-
-</details>
 
 [linkedin]: https://www.linkedin.com/in/charlie-cohen-47b241a2/ "LinkedIn"
