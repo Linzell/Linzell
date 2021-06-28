@@ -72,13 +72,10 @@
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
-<!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, June 28th, 2021, 6:27:38 PM
-<!--RECENT_ACTIVITY:last_update_end-->
-<!--RECENT_ACTIVITY:start-->
+<!--START_SECTION:activity-->
 
 
-<!--RECENT_ACTIVITY:end-->
+<!--END_SECTION:activity-->
 
 </details>
 
