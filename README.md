@@ -79,7 +79,8 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 <br />
-<img align="left" alt="mysql" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Linzell&theme=blue-green&show_icons=true&hide_border=true" />
+<img align="left" alt="mysql" src="https://github-readme-stats.vercel.app/api?username=Linzell&show_icons=true&hide_border=true" />
+<img align="left" alt="mysql" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Linzell&show_icons=true&hide_border=true" />
 
 </details>
 
