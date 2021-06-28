@@ -2,7 +2,7 @@
 ✨ I am a junior developper in France ✨
 
 - 🌱 I’m currently learning developping in Webforce 3
-- 🔭 I’m currently working on Angular and Symfony
+- 🔭 Working on multiple frontend and backend project using Angular and Symfony
 
 <!--
 **Linzell/Linzell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
