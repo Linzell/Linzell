@@ -1,7 +1,7 @@
 ### Hello World 👋
 ✨ I am a junior developper in France ✨
 
-- 🌱 I’m currently learning developping in Webforce 3
+- 🌱 I’m currently learning Web developping in Webforce 3
 - 🔭 Working on multiple frontend and backend project using Angular and Symfony
 
 <!--
