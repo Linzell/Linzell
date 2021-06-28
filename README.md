@@ -18,6 +18,8 @@
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/charlie-cohen-47b241a2/)
 
+[<img align="left" alt="discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />](https://discord.com/users/%E2%98%86%EF%BE%9F.*%EF%BD%A5%EF%BD%A1%EF%BE%9FLinzell%20%E2%98%86%EF%BE%9F.*%EF%BD%A5%EF%BD%A1%EF%BE%9F#4575/)
+
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Linzellart)
 <br />
 <br />
