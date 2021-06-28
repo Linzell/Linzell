@@ -60,8 +60,8 @@
 
 ## Activity in Github
 
-<img align="left" alt="stat" src="https://github-readme-stats.vercel.app/api?username=Linzell&theme=blue-green" />
-<!--<img align="right" alt="stat2" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Linzell&theme=blue-green" />-->
+<!--<img align="left" alt="stat" src="https://github-readme-stats.vercel.app/api?username=Linzell&theme=blue-green" />-->
+<img align="left" alt="stat2" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Linzell&theme=blue-green" />
 <br>
 
 
