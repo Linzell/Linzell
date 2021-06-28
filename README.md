@@ -19,6 +19,7 @@
 
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Linzellart)
 <br>
+<br>
 
 ## Expertise
 
@@ -51,11 +52,13 @@
 
 <!--<img align="left" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />-->
 <br>
+<br>
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
 
 <!-- BLOG-POST-LIST:END -->
+<br>
 <br>
 
 ## Activity in Github
