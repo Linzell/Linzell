@@ -87,7 +87,7 @@ Last Updated: Monday 2021/06/28, 8:54:33 PM GMT+0200
 
 <h2><b>Workspace</b></h2>
 
-<img  src="https://img.shields.io/badge/Windows-Windows 10(Insider)-0078D6?style=for-the-badge&logo=windows&logoColor=white"> <img  src="https://img.shields.io/badge/Fedora-Workstation-0078D6?style=for-the-badge&logo=fedora&logoColor=white">
+<img  src="https://img.shields.io/badge/Windows-Windows 10(Insider)-0078D6?style=for-the-badge&logo=windows&logoColor=white"> <img  src="https://img.shields.io/badge/Fedora-34 Workstation-0078D6?style=for-the-badge&logo=fedora&logoColor=white">
 
 
 
