@@ -39,7 +39,8 @@
 <img align="left" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 
 <!--<img align="left" alt="nojs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />-->
-
+<br>
+<br>
 <img align="left" alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 
 <!--<img align="left" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />-->
@@ -60,7 +61,7 @@
 ## Activity in Github
 
 <img align="left" alt="stat" src="https://github-readme-stats.vercel.app/api?username=Linzell&theme=blue-green" />
-<img align="right" alt="stat2" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Linzell&theme=blue-green" />
+<!--<img align="right" alt="stat2" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Linzell&theme=blue-green" />-->
 <br>
 
 
