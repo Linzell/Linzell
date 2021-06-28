@@ -3,6 +3,7 @@
 - 🔭 Working on multiple frontend and backend project using Angular and Symfony
 - 🌱 I’m currently learning everything :scream:
 - 👯 I'm looking for an internship
+- 🥅 2021 Goals : Contribute more and learning more 🤣
 <!--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
