@@ -8,7 +8,7 @@ settings:
     - "comments"
   url_text: "{REPO}{ID}"
   date:
-    timezone: "Europe/Madrid"
+    timezone: "Europe/Paris"
     text: "Last Updated: {DATE}"
     format: "dddd yyyy/mm/dd, h:MM:ss TT Z"
 messages:
