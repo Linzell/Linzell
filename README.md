@@ -50,8 +50,8 @@ Last Updated: Monday 2021/06/28, 8:54:33 PM GMT+0200
 <details>
   <summary>:zap: GitHub Stats</summary>
 <br />
-<img align="left" alt="mysql" src="https://github-readme-stats.vercel.app/api?username=Linzell&show_icons=true&hide_border=true" />
-<img align="left" alt="mysql" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Linzell&show_icons=true&hide_border=true" />
+<img alt="mysql" src="https://github-readme-stats.vercel.app/api?username=Linzell&show_icons=true&hide_border=true" />
+<img alt="mysql" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Linzell&show_icons=true&hide_border=true" />
 
 </details>
 
