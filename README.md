@@ -28,11 +28,7 @@
 
 <h2>📕 Latest Blog Posts</h2>
 <!-- BLOG-POST-LIST:START -->
-'📔 Created new repository [Linzell/CoucousAdventure](https://github.com/Linzell/CoucousAdventure)',
-'📔 Created new repository [Linzell/Blog](https://github.com/Linzell/Blog)',
-'📔 Created new repository [Linzell/Angular---Cours](https://github.com/Linzell/Angular---Cours)',
-'📔 Created new repository [Linzell/Cours---Angular](https://github.com/Linzell/Cours---Angular)',
-'📔 Created new repository [Linzell/CoucousAdventure---Angular](https://github.com/Linzell/CoucousAdventure---Angular)'
+
 <!-- BLOG-POST-LIST:END -->
 *(Soon)*
 <br />
@@ -46,7 +42,11 @@
 Last Updated: Monday 2021/06/28, 8:54:33 PM GMT+0200
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-
+'📔 Created new repository [Linzell/CoucousAdventure](https://github.com/Linzell/CoucousAdventure)',
+'📔 Created new repository [Linzell/Blog](https://github.com/Linzell/Blog)',
+'📔 Created new repository [Linzell/Angular---Cours](https://github.com/Linzell/Angular---Cours)',
+'📔 Created new repository [Linzell/Cours---Angular](https://github.com/Linzell/Cours---Angular)',
+'📔 Created new repository [Linzell/CoucousAdventure---Angular](https://github.com/Linzell/CoucousAdventure---Angular)'
 <!--RECENT_ACTIVITY:end-->
   
 </details>
