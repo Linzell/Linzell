@@ -6,6 +6,7 @@ settings:
   disabled_events:
     - "star"
     - "comments"
+    - "fork"
   url_text: "{REPO}{ID}"
   date:
     timezone: "Europe/Paris"
