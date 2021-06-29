@@ -1,8 +1,7 @@
 name: Latest GitHub Activity
 on:
   schedule:
-    # Runs every Sunday at midnight.
-    - cron: '0 0 * * 0'
+    - cron: '0 0 * * *'
   workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly.
 
 jobs:
