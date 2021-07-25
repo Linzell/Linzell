@@ -1,6 +1,6 @@
 ### Hi there, I'm Charlie - aka [Linzell][linkedin] 👋
 
-- 🔭 Working on multiple frontend and backend project using Angular or React
+- 🔭 Working on multiple frontend and backend project using React
 - 🌱 I’m currently learning everything 😊
 - 👯 I'm looking for an internship
 - 🥅 2021 Goals : Contribute more and learning more 🤣
