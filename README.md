@@ -87,7 +87,7 @@ Last Updated: Monday 2021/08/02, 8:23:41 PM GMT+0200
 
 <h2><b>Workspace</b></h2>
 
-<img  src="https://img.shields.io/badge/Windows-Windows 11(Insider)-0078D6?style=for-the-badge&logo=windows&logoColor=white"> <img  src="https://img.shields.io/badge/Ubuntu-PoP OS!-0078D6?style=for-the-badge&logo=ubuntu&logoColor=white">
+<img  src="https://img.shields.io/badge/Windows-Windows 11(Insider)-0078D6?style=for-the-badge&logo=windows&logoColor=white"> <img  src="https://img.shields.io/badge/Ubuntu-PoP OS!-0078D6?style=for-the-badge&logo=ubuntu&logoColor=white"> <img  src="https://img.shields.io/badge/Mac os-Catalina-0078D6?style=for-the-badge&logo=apple&logoColor=white">
 
 
 
