@@ -77,7 +77,7 @@ Last Updated: Monday 2021/08/02, 8:23:41 PM GMT+0200
 
 <h2><b>Database</b></h2>
 
-<img alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+<img alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> <img alt="mariadb" src="https://img.shields.io/badge/maria db-1572B6?style=for-the-badge&logo=mariadb&logoColor=white" />
 
 <h2><b>Dev Tools</b></h2>
 
