@@ -73,6 +73,8 @@ Last Updated: Monday 2021/08/02, 8:23:41 PM GMT+0200
 
 <p><b>Frameworks</b></p>
 
+<img alt="symfony" src="https://img.shields.io/badge/symphony-00000F?style=for-the-badge&logo=symfony&logoColor=white" /> 
+
 <h2><b>Database</b></h2>
 
 <img alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
