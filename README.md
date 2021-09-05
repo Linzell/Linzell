@@ -1,8 +1,8 @@
 ### Hi there, I'm Charlie - aka [Linzell][linkedin] 👋
 
 - 🔭 Working on multiple frontend and backend project using React and Tailwinds
-- 🌱 I’m currently learning everything 😊
-- 👯 I'm looking for an internship
+- 🌱 I’m currently learning ThreeJS 😊
+- 👯 I'm looking for next project
 - 🥅 2021 Goals : Contribute more and learning more 🤣
 <!--
 - 🤔 I’m looking for help with ...
