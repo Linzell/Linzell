@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Charlie</h1>
 
-<h3 align="center">Front-end developper</h3>
+<h3>Front-end developer</h3>
 
 - 🔭 I’m currently working on **Mire to create a new web site**
 
