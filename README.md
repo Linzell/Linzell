@@ -19,14 +19,17 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<h4>Frontend Development</h4>
+<h4>Languages</h4>
 
 <p align="left">
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+<a href="https://www.rust-lang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="rust" width="40" height="40"/> </a>
+</p>
+
+<h4>Framework/Library</h4>
+
+<p align="left">
 <a href="https://vuejs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vuejs" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> </a>
 <!--<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>-->
@@ -34,12 +37,11 @@
 <a href="https://threejs.org" target="_blank"> <img src="https://upload.vectorlogo.zone/logos/threejs/images/3453d6aa-b9c2-48b3-b2c1-97aa80b5525e.svg" alt="threejs" width="80" height="40"/> </a>
 </p>
 
-<h4>Backend Development</h4>
+<h4>JavaScript Runtime</h4>
 
 <p align="left">
 <a href="https://nodejs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://www.php.net" target="_blank"> <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="40" height="40"/> </a>
-<a href="https://symfony.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/symfony/symfony-icon.svg" alt="symfony" width="40" height="40"/> </a>
+<a href="https://deno.land/" target="_blank"> <img src="https://deno.land/logo.svg" alt="deno" width="40" height="40"/> </a>
 </p>
 
 <h4>Mobile App Developpment</h4>
