@@ -99,8 +99,6 @@ Last Updated: Tuesday 2022/03/29, 4:18:59 PM GMT+0200
 <br />
  <p align="left">
     <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=Linzell&show_icons=true&hide_border=true" />
- </p>
-  <p align="right">
     <img alt="langTopmysql" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Linzell&show_icons=true&hide_border=true&layout=compact" />
   </p>
 </details>
