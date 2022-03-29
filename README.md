@@ -97,7 +97,7 @@ Last Updated: Tuesday 2022/03/29, 4:18:59 PM GMT+0200
 <details>
   <summary>:zap: GitHub Stats</summary>
 <br />
-<img alt="mysql" src="https://github-readme-stats.vercel.app/api?username=Linzell&show_icons=true&hide_border=true" />
-<img alt="mysql" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Linzell&show_icons=true&hide_border=true" />
+<img alt="stats" src="https://github-readme-stats.vercel.app/api?username=Linzell&show_icons=true&hide_border=true" />
+<img alt="langTopmysql" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Linzell&show_icons=true&hide_border=true&layout=compact" />
 
 </details>
