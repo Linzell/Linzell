@@ -18,10 +18,10 @@
 <br />
 
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Linzell&&show_icons=true&theme=tokyonight_duo&layout=compact&hide_border=true&langs_count=6" alt="Linzell's stats"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Linzell&&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&langs_count=6" alt="Linzell's stats"/></a>
 </p>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Linzell&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight_duo&hide_border=true&" width="48%" alt="Linzell's stats"/></a>
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=Linzell&theme=tokyonight_duo&hide_border=true" width="48%" alt="Linzell's stats"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Linzell&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&" width="48%" alt="Linzell's stats"/></a>
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=Linzell&theme=tokyonight&hide_border=true" width="48%" alt="Linzell's stats"/></a>
 
 <br />
 
