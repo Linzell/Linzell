@@ -14,24 +14,15 @@
 🐝 I mainly use React, Vue and Node in my current projects, but I'm always curious to discover other alternatives. Feel free to come and discuss them with me.<br />
 👾 I'm currently participating on several projects helping the development and teaching of Web3 and everything that comes with it (NFT, DAPP, smart contracts, ...) for a French YouTubeur.
  </p>
-  
-<br />
-
-<p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Linzell&&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&langs_count=6" alt="Linzell's stats"/></a>
-</p>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Linzell&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&" width="48%" alt="Linzell's stats"/></a>
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=Linzell&theme=tokyonight&hide_border=true" width="48%" alt="Linzell's stats"/></a>
-
-<br />
-
-<h3 align="center">Languages and Tools:</h3>
+ 
+ <h3 align="center">Languages and Tools:</h3>
 
 <h4 align="center">Languages</h4>
 
 <p align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
+<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="solidity" width="40" height="40"/></a>
+<a href="https://soliditylang.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="solidity" width="40" height="40"/></a>
 <a href="https://www.rust-lang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="rust" width="40" height="40"/></a>
 </p>
 
@@ -87,10 +78,19 @@
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
+<a href="https://webassembly.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/webassembly/webassembly-icon.svg" alt="WebAssembly" width="40" height="40"/></a>
 </p>
 
-<h3 align="center">Connect with me:</h3>
+<h2 align="center">Connect with me:</h2>
 <p align="center">
-<a href="https://twitter.com/linzellart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="linzellart" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/charlie-cohen-47b241a2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="charlie-cohen-47b241a2" height="30" width="40" /></a><a href="https://discord.com/users/%E2%98%86%EF%BE%9F.*%EF%BD%A5%EF%BD%A1%EF%BE%9FLinzell%20%E2%98%86%EF%BE%9F.*%EF%BD%A5%EF%BD%A1%EF%BE%9F#4575/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="%E2%98%86%EF%BE%9F.*%EF%BD%A5%EF%BD%A1%EF%BE%9FLinzell%20%E2%98%86%EF%BE%9F.*%EF%BD%A5%EF%BD%A1%EF%BE%9F#4575/BE%9F.*%EF%BD%A5%EF%BD%A1%EF%BE%9FLinzell%20%E2%98%86%EF%BE%9F.*%EF%BD%A5%EF%BD%A1%EF%BE%9F#4575" height="30" width="40" /></a>
+<a href="https://twitter.com/linzellart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="linzellart" height="60" width="80" /></a>
+<a href="https://linkedin.com/in/charlie-cohen-47b241a2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="charlie-cohen-47b241a2" height="50" width="70" /></a><a href="https://discord.com/users/%E2%98%86%EF%BE%9F.*%EF%BD%A5%EF%BD%A1%EF%BE%9FLinzell%20%E2%98%86%EF%BE%9F.*%EF%BD%A5%EF%BD%A1%EF%BE%9F#4575/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="%E2%98%86%EF%BE%9F.*%EF%BD%A5%EF%BD%A1%EF%BE%9FLinzell%20%E2%98%86%EF%BE%9F.*%EF%BD%A5%EF%BD%A1%EF%BE%9F#4575/BE%9F.*%EF%BD%A5%EF%BD%A1%EF%BE%9FLinzell%20%E2%98%86%EF%BE%9F.*%EF%BD%A5%EF%BD%A1%EF%BE%9F#4575" height="60" width="80" /></a>
 </p>
+
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats"><img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Linzell&&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&langs_count=6" alt="Linzell's stats"/></a>
+</p>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Linzell&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&" width="48%" alt="Linzell's stats"/></a>
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=Linzell&theme=tokyonight&hide_border=true" width="48%" alt="Linzell's stats"/></a>
+
+<br />
