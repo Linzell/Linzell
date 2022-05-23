@@ -62,6 +62,7 @@
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
 <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/></a>
 <a href="https://www.netlify.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40" height="40"/></a>
+<a href="https://vercel.com/" target="_blank"> <img src="https://assets.vercel.com/image/upload/front/favicon/round-2/180x180.png" alt="vercel" width="40" height="40"/></a>
 </p>
 
 <h4 align="center">Software</h4>
