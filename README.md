@@ -4,15 +4,22 @@
 
 <p align="center">
 🚲 FullStack Developer.<br />
-(She/Her)
-  </p>
+</p>
 
 <p align="center">
-👩‍💻 I am currently working on creating several web projects for the company Mire-SAS.<br />
-🌱 I'm currently training in ThreeJS and OpenGL for larger projects.<br />
+👩‍💻 I am currently working on creating several projects for the company MeetSYS.<br />
+
+<p align="center">
+🌱 I'm currently training in ThreeJS and OpenGL for the realization of bigger projects, through Bruno Simon's training. <br />
+ </p>
+<p align="center">
 🦖 I'm always looking for new projects to work on to further my knowledge, so feel free to contact me.<br />
-🐝 I mainly use React, Vue and Node in my current projects, but I'm always curious to discover other alternatives. Feel free to come and discuss them with me.<br />
-👾 I'm currently participating on several projects helping the development and teaching of Web3 and everything that comes with it (NFT, DAPP, smart contracts, ...) for a French YouTubeur.
+ </p>
+<p align="center">
+🐝 I mainly use React, Vue and Node in my current pro projects, Aleph and Deno on my free time, but I'm always curious to discover other alternatives. Feel free to come and discuss them with me.<br />
+ </p>
+<p align="center">
+👾 I'm currently participating on several projects helping the development and teaching of Web3 and everything that comes with it (NFT, DAPP, smart contracts, ...) for the French YouTubeur BenBK.<br />
  </p>
  
  <h3 align="center">Languages and Tools:</h3>
