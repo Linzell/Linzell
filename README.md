@@ -65,6 +65,14 @@
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/></a>
 </p>
 
+<h4 align="center">Decentralize Storage</h4>
+
+<p align="center">
+<a href="ipfs.io/" target="_blank"> <img src="https://github.com/maxogden/hexbin/blob/gh-pages/vector/ipfs.svg" alt="ipfs" width="40" height="40"/></a>
+ <a href="filecoin.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/filecoinio/filecoinio-icon.svg" alt="filecoin" width="40" height="40"/></a>
+<a href="libp2p.io" target="_blank"> <img src="https://cdn1.betapage.co/logo/119868595-119868636.png?w=200&h=200&fit=crop" alt="libp2p" width="40" height="40"/></a>
+</p>
+
 <h4 align="center">Backend as a Service(BaaS)</h4>
 
 <p align="center">
