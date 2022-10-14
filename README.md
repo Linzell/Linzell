@@ -3,7 +3,7 @@
 <br />
 
 <p align="center">
-🚲 FullStack Developer.<br />
+🚲 FullStack / Web 3 Developer.<br />
 </p>
 
 <p align="center">
@@ -41,7 +41,7 @@
 <a href="https://quasar.dev/" target="_blank"> <img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" alt="quasar" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/></a>
 <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
-<a href="https://threejs.org" target="_blank"> <img src="https://aws1.discourse-cdn.com/standard17/uploads/threejs/optimized/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751_2_992x1000.png" alt="threejs" width="40" height="40"/></a>
+<a href="https://threejs.org" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdiscoverthreejs.com%2Fimages%2Fapp-logos%2Fforum.png&f=1&nofb=1&ipt=d9e3335f516416f5ef0190eedd8a19df6fa4eb8267df67abd13fa163eb9b1d47&ipo=images" alt="threejs" width="40" height="40"/></a>
 </p>
 
 <h4 align="center">JavaScript Runtime</h4>
