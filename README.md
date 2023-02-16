@@ -1,115 +1,102 @@
-<h1 align="center">Hi 👋, I'm Charlie</h1>
+# Charlie Cohen
 
-<br />
+[![handle](https://img.shields.io/badge/handle-@linzell-green)](https://fosstodon.org/@linzell) [![Pronouns](https://img.shields.io/badge/pronouns-she/her-ff69b4)](https://en.wikipedia.org/wiki/She_(pronoun)) [![location](https://img.shields.io/badge/location-🇨🇵%20Lyon-blue)](https://duckduckgo.com/?q=lyon+map&t=ffab&ia=web&iaxm=maps) [![Editor](https://img.shields.io/badge/editor-vsc-blue)](https://github.com/microsoft/vscode)
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/Linzellart?style=social)](https://twitter.com/Linzellart) [![Mastodon Follow](https://img.shields.io/mastodon/follow/109603642624824125?domain=https%3A%2F%2Ffosstodon.org%2F&style=social)](https://fosstodon.org/@linzell) <br>
+![Twitch](https://img.shields.io/twitch/status/Linzellart?style=social)
+![GitHub followers](https://img.shields.io/github/followers/linzell?style=social)
+
+Hi :wave:, I'm Charlie
+
+I'm FullStack / Web 3 Developer living in France 🚲
+
+I'm known for my job in community: <br>
+
+🔸 Administrator on the [BenBK Discord](https://discord.gg/endAzzPNrt) <br>
+🔸 Streamer on [Twitch](https://www.twitch.tv/linzellart) every week in French <br>
+
+## What interests me at the moment 🌱
+
+🔸 Rewrite it in Rust <br>
+🔸 Decentralized system <br>
+🔸 Blockchain <br>
+🔸 Helping in tech community <br>
+
+## Live Stats 📊
 
 <p align="center">
-🚲 FullStack / Web 3 Developer.<br />
+<img src="https://github-readme-stats.vercel.app/api?username=linzell&count_private=true&show_icons=true&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linzell&count_private=true&langs_count=7&hide=html,postscript&exclude_repo=Machine-Learning-Course,dotfiles&layout=compact&theme=tokyonight" />
 </p>
 
-<p align="center">
-👩‍💻 I am currently working on creating several projects for the company MeetSYS.<br />
+## Hungry Lama 🔉🦙
 
-<p align="center">
-🌱 I'm currently training in ThreeJS and OpenGL for the realization of bigger projects, through Bruno Simon's training. <br />
- </p>
-<p align="center">
-🦖 I'm always looking for new projects to work on to further my knowledge, so feel free to contact me.<br />
- </p>
-<p align="center">
-🐝 I mainly use React, Vue and Node in my current pro projects, Aleph and Deno on my free time, but I'm always curious to discover other alternatives. Feel free to come and discuss them with me.<br />
- </p>
-<p align="center">
-👾 I'm currently participating on several projects helping the development and teaching of Web3 and everything that comes with it (NFT, DAPP, smart contracts, ...) for the French YouTubeur BenBK.<br />
- </p>
- 
- <h3 align="center">Languages and Tools:</h3>
+Project to develop several small games using the [Bevy engine](https://github.com/bevyengine/bevy) (Rust) with a team of several developers, with the objective of sharing knowledge through live coding and training. <br>
+The lives are made available after the exchanges to help people as much as possible, even if they can't be present at the event.
 
-<h4 align="center">Languages</h4>
+🔸 [Project Lama](https://github.com/Hungry-Lama/lama_rts) <br>
+🔸 [Rhythm game](https://github.com/Linzell/bevy_rhythm) <br>
+
+## Tech Community 🧑‍💻👩‍💻👨‍💻 
+
+I help out on several developer Discord communities under the pseudonym [☆ﾟ.*･｡Charlie ☆ﾟ.*･｡ﾟ](https://discord.com/users/%E2%98%86%EF%BE%9F.*%EF%BD%A5%EF%BD%A1%EF%BE%9FLinzell%20%E2%98%86%EF%BE%9F.*%EF%BD%A5%EF%BD%A1%EF%BE%9F#4575/) on several topics related to specific topics in the field or diversity development in the sector through advice for people in training or hesitant to get into the field.
+
+🔸 [BenBK Discord](https://discord.gg/endAzzPNrt) <br>
+🔸 [Cesic Discord](https://discord.gg/TZQGUsVutM) <br>
+🔸 [Motiv'her Discord](https://www.motivher.fr/) <br>
+
+## Web3 :sparkles:🕸️:sparkles:
+
+This takes up most of my time, both personally and professionally.
+
+### BenBK Discord 📚🖋️
+
+Community of mutual aid for the people who follow the [Youtube](https://www.youtube.com/@BenBK) channel, I help with the administration of the community and the monitoring of the members. I also help answering technical questions on most topics related to Blockchain and data decentralization videos. <br>
+I also helped several projects to be set up with some members of the community.
+
+🔸 [BenBK Discord](https://discord.gg/endAzzPNrt) <br>
+
+### Twitch 🎥📺📼
+
+Realization of every Tuesday of a live [Twitch](https://www.twitch.tv/linzellart) chosen among a list of topics by the members of the community, on a topic related to the blockchain or the development world. <br>
+The lives are made available after the exchanges to help people as much as possible and a [Discord](https://discord.gg/pp6nxhtSnf) is available to answer questions or suggest next topics.
+
+🔸 [Twitch](https://www.twitch.tv/linzellart) <br>
+🔸 [Discord](https://discord.gg/pp6nxhtSnf) <br>
+
+## Technical stacks 🔧⚙️
+
+Some of the technologies I use in my projects:
 
 <p align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="solidity" width="40" height="40"/></a>
 <a href="https://soliditylang.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="solidity" width="40" height="40"/></a>
 <a href="https://www.rust-lang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="rust" width="40" height="40"/></a>
-</p>
-
-<h4 align="center">Framework/Library</h4>
-
-<p align="center">
-<a href="https://vuejs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vuejs" width="40" height="40"/> </a>
-<a href="https://vitejs.dev/" target="_blank"> <img src="https://vectorwiki.com/images/bjlcA__vitejs.svg" alt="vite" width="40" height="40"/> </a>
-<a href="https://quasar.dev/" target="_blank"> <img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" alt="quasar" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/></a>
-<a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
-<a href="https://threejs.org" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdiscoverthreejs.com%2Fimages%2Fapp-logos%2Fforum.png&f=1&nofb=1&ipt=d9e3335f516416f5ef0190eedd8a19df6fa4eb8267df67abd13fa163eb9b1d47&ipo=images" alt="threejs" width="40" height="40"/></a>
-</p>
-
-<h4 align="center">JavaScript Runtime</h4>
-
-<p align="center">
 <a href="https://nodejs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/></a>
 <a href="https://deno.land/" target="_blank"> <img src="https://deno.land/logo.svg" alt="deno" width="40" height="40"/></a>
 </p>
 
-<h4 align="center">Mobile App Developpment</h4>
-
 <p align="center">
-<a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></a>
+<a href="https://vuejs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vuejs" width="40" height="40"/> </a>
+<a href="https://reactjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/></a>
+<a href="https://vitejs.dev/" target="_blank"> <img src="https://vectorwiki.com/images/bjlcA__vitejs.svg" alt="vite" width="40" height="40"/> </a>
+<a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
+<a href="https://webassembly.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/webassembly/webassembly-icon.svg" alt="WebAssembly" width="40" height="40"/></a>
+<a href="https://threejs.org" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdiscoverthreejs.com%2Fimages%2Fapp-logos%2Fforum.png&f=1&nofb=1&ipt=d9e3335f516416f5ef0190eedd8a19df6fa4eb8267df67abd13fa163eb9b1d47&ipo=images" alt="threejs" width="40" height="40"/></a>
 </p>
-
-<h4 align="center">Database</h4>
-
-<p align="center">
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/></a>
-<a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/></a> 
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/></a>
-</p>
-
-<h4 align="center">Decentralize Storage</h4>
 
 <p align="center">
 <a href="https://ipfs.io/" target="_blank"> <img src="https://github.com/maxogden/hexbin/blob/gh-pages/vector/ipfs.svg" alt="ipfs" width="40" height="40"/></a>
  <a href="https://filecoin.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/filecoinio/filecoinio-icon.svg" alt="filecoin" width="40" height="40"/></a>
 <a href="https://libp2p.io" target="_blank"> <img src="https://cdn1.betapage.co/logo/119868595-119868636.png?w=200&h=200&fit=crop" alt="libp2p" width="40" height="40"/></a>
-</p>
-
-<h4 align="center">Backend as a Service(BaaS)</h4>
-
-<p align="center">
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
-<a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/></a>
 <a href="https://www.netlify.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40" height="40"/></a>
 <a href="https://vercel.com/" target="_blank"> <img src="https://assets.vercel.com/image/upload/front/favicon/round-2/180x180.png" alt="vercel" width="40" height="40"/></a>
 </p>
-
-<h4 align="center">Software</h4>
-
-<p align="center">
-<a href="https://www.blender.org/" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/></a>
-<a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-<a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
-</p>
-
-<h4 align="center">Other</h4>
 
 <p align="center">
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
-<a href="https://webassembly.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/webassembly/webassembly-icon.svg" alt="WebAssembly" width="40" height="40"/></a>
 </p>
-
-<h2 align="center">Connect with me:</h2>
-<p align="center">
-<a rel="me" href="https://fosstodon.org/@linzell" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/joinmastodon/joinmastodon-tile.svg" alt="linzellart" height="60" width="80" /></a>
-<a href="https://twitter.com/linzellart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="linzellart" height="60" width="80" /></a>
-<a href="https://www.linkedin.com/in/charlie-%F0%9F%A6%8A-cohen-47b241a2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="charlie-cohen-47b241a2" height="50" width="70" /></a><a href="https://discord.com/users/%E2%98%86%EF%BE%9F.*%EF%BD%A5%EF%BD%A1%EF%BE%9FLinzell%20%E2%98%86%EF%BE%9F.*%EF%BD%A5%EF%BD%A1%EF%BE%9F#4575/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="%E2%98%86%EF%BE%9F.*%EF%BD%A5%EF%BD%A1%EF%BE%9FLinzell%20%E2%98%86%EF%BE%9F.*%EF%BD%A5%EF%BD%A1%EF%BE%9F#4575/BE%9F.*%EF%BD%A5%EF%BD%A1%EF%BE%9FLinzell%20%E2%98%86%EF%BE%9F.*%EF%BD%A5%EF%BD%A1%EF%BE%9F#4575" height="60" width="80" /></a>
-</p>
-
-<p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Linzell&&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&langs_count=6" alt="Linzell's stats"/></a>
-</p>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Linzell&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&" width="48%" alt="Linzell's stats"/></a>
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=Linzell&theme=tokyonight&hide_border=true" width="48%" alt="Linzell's stats"/></a>
-
-<br />
