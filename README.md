@@ -13,7 +13,7 @@ I'm FullStack / Web 3 Developer living in France 🚲
 I'm known for my job in community: <br>
 
 🔸 Administrator on the [BenBK Discord](https://discord.gg/endAzzPNrt) <br>
-🔸 Streamer on [Twitch](https://www.twitch.tv/linzellart) every week in French <br>
+🔸 Streamer on [Twitch](https://www.twitch.tv/linzellart) every Tuesday <br>
 
 ## What interests me at the moment 🌱
 
