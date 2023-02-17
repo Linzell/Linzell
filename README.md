@@ -67,6 +67,7 @@ The lives are made available after the exchanges to help people as much as possi
 
 🔸 [Twitch](https://www.twitch.tv/linzellart) <br>
 🔸 [Discord](https://discord.gg/pp6nxhtSnf) <br>
+🔸 [Project Kiro](https://github.com/Linzell/kiro) <br>
 
 ## Technical stacks 🔧⚙️
 
