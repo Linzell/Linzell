@@ -31,8 +31,7 @@ I'm known for my job in community: <br>
 
 ## Hungry Lama 🔉🦙
 
-Project to develop several small games using the [Bevy engine](https://github.com/bevyengine/bevy) (Rust) with a team of several developers, with the objective of sharing knowledge through live coding and training. <br>
-The lives are made available after the exchanges to help people as much as possible, even if they can't be present at the event.
+Project to develop several small games using the [Bevy engine](https://github.com/bevyengine/bevy) (Rust) with a team of several developers, with the objective of sharing knowledge through live coding and training.
 
 🔸 [Project Lama](https://github.com/Hungry-Lama/lama_rts) <br>
 🔸 [Rhythm game](https://github.com/Linzell/bevy_rhythm) <br>
@@ -55,6 +54,7 @@ Community of mutual aid for the people who follow the [Youtube](https://www.yout
 I also helped several projects to be set up with some members of the community.
 
 🔸 [BenBK Discord](https://discord.gg/endAzzPNrt) <br>
+🔸 [BenBK Youtube](https://www.youtube.com/@BenBK) <br>
 
 ### Twitch 🎥📺📼
 
