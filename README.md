@@ -29,6 +29,10 @@ I'm known for my job in community: <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linzell&count_private=true&langs_count=7&hide=html,postscript&exclude_repo=Machine-Learning-Course,dotfiles&layout=compact&theme=tokyonight" />
 </p>
 
+## MeetSYS 🧬🔬
+
+Realization for [MeetSYS](https://github.com/meetsys) of a knowledge capitalization tool for companies, using blockchain technologies to secure exchanges and allow people to quickly deploy the solution without server requirements and to keep control of their data.
+
 ## Hungry Lama 🔉🦙
 
 Project to develop several small games using the [Bevy engine](https://github.com/bevyengine/bevy) (Rust) with a team of several developers, with the objective of sharing knowledge through live coding and training.
