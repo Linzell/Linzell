@@ -46,7 +46,6 @@ I help out on several developer Discord communities under the pseudonym [☆ﾟ.
 
 🔸 [BenBK Discord](https://discord.gg/endAzzPNrt) <br>
 🔸 [Cesic Discord](https://discord.gg/TZQGUsVutM) <br>
-🔸 [Motiv'her Discord](https://www.motivher.fr/) <br>
 
 ## Web3 :sparkles:🕸️:sparkles:
 
