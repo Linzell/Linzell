@@ -8,7 +8,7 @@
 
 Hi :wave:, I'm Charlie
 
-I'm FullStack / Blockchain Developer living in France 🚲
+I'm Rust/Typescript Software Engineer
 
 I'm known for my job in community: <br>
 
