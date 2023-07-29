@@ -1,6 +1,6 @@
 # Charlie Cohen
 
-[![handle](https://img.shields.io/badge/handle-@linzell-green)](https://fosstodon.org/@linzell) [![Pronouns](https://img.shields.io/badge/pronouns-she/her-ff69b4)](https://en.wikipedia.org/wiki/She_(pronoun)) [![location](https://img.shields.io/badge/location-🇨🇵%20Lyon-blue)](https://duckduckgo.com/?q=lyon+map&t=ffab&ia=web&iaxm=maps) [![Editor](https://img.shields.io/badge/editor-vsc-blue)](https://github.com/microsoft/vscode)
+[![handle](https://img.shields.io/badge/handle-@linzell-green)](https://fosstodon.org/@linzell) [![Pronouns](https://img.shields.io/badge/pronouns-she/her-ff69b4)](https://en.wikipedia.org/wiki/She_(pronoun))
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Linzellart?style=social)](https://twitter.com/Linzellart) [![Mastodon Follow](https://img.shields.io/mastodon/follow/109603642624824125?domain=https%3A%2F%2Ffosstodon.org%2F&style=social)](https://fosstodon.org/@linzell) <br>
 ![Twitch](https://img.shields.io/twitch/status/Linzellart?style=social)
