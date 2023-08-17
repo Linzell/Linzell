@@ -1,4 +1,4 @@
-# Charlie Cohen
+# Charlie 🦊 Cohen
 
 [![handle](https://img.shields.io/badge/handle-@linzell-green)](https://fosstodon.org/@linzell) [![Pronouns](https://img.shields.io/badge/pronouns-she/her-ff69b4)](https://en.wikipedia.org/wiki/She_(pronoun))
 
