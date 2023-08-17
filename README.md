@@ -4,7 +4,7 @@
 
 [![Bluesky Follow](https://img.shields.io/badge/🦋-@linzell-blue)](https://bsky.app/profile/linzell.bsky.social)
 [![Mastodon Follow](https://img.shields.io/mastodon/follow/109603642624824125?domain=https%3A%2F%2Ffosstodon.org%2F&style=social)](https://fosstodon.org/@linzell) <br>
-![Twitch](https://img.shields.io/twitch/status/Linzellart?style=social)
+[![Twitch](https://img.shields.io/twitch/status/Linzellart?style=social)](https://www.twitch.tv/linzellart)
 ![GitHub followers](https://img.shields.io/github/followers/linzell?style=social)
 
 Hi :wave:, I'm Charlie
