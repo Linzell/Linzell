@@ -2,6 +2,7 @@
 
 [![handle](https://img.shields.io/badge/handle-@linzell-green)](https://fosstodon.org/@linzell) [![Pronouns](https://img.shields.io/badge/pronouns-she/her-ff69b4)](https://en.wikipedia.org/wiki/She_(pronoun))
 
+[![Bluesky Follow](https://img.shields.io/badge/🦋-@linzell-blue)](https://bsky.app/profile/linzell.bsky.social) <br>
 [![Mastodon Follow](https://img.shields.io/mastodon/follow/109603642624824125?domain=https%3A%2F%2Ffosstodon.org%2F&style=social)](https://fosstodon.org/@linzell) <br>
 ![Twitch](https://img.shields.io/twitch/status/Linzellart?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/linzell?style=social)
@@ -25,7 +26,8 @@ I'm known for my job in community: <br>
 ## Live Stats 📊
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linzell&count_private=true&langs_count=7&hide=html,postscript&exclude_repo=Machine-Learning-Course,dotfiles&layout=compact&theme=tokyonight" />
+<img height=200 src="https://github-readme-stats.vercel.app/api?username=linzell&show_icons=true&rank_icon=github" />
+<img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=linzell&layout=compact&langs_count=8&card_width=320" />
 </p>
 
 ## MeetSYS 🧬🔬
