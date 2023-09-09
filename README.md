@@ -2,7 +2,7 @@
 
 [![handle](https://img.shields.io/badge/handle-@linzell-green)](https://fosstodon.org/@linzell) [![Pronouns](https://img.shields.io/badge/pronouns-she/her-ff69b4)](https://en.wikipedia.org/wiki/She_(pronoun))
 
-[![Bluesky Follow](https://img.shields.io/badge/🦋-@linzell-blue)](https://bsky.app/profile/linzell.bsky.social)
+[![Bluesky Follow](https://img.shields.io/badge/🦋-@linzell-blue)](https://bsky.app/profile/charlie-cohen.com)
 [![Mastodon Follow](https://img.shields.io/mastodon/follow/109603642624824125?domain=https%3A%2F%2Ffosstodon.org%2F&style=social)](https://fosstodon.org/@linzell) <br>
 [![Twitch](https://img.shields.io/twitch/status/Linzellart?style=social)](https://www.twitch.tv/linzellart)
 ![GitHub followers](https://img.shields.io/github/followers/linzell?style=social)
