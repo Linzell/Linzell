@@ -14,7 +14,7 @@ I'm Rust/Typescript Software Engineer
 I'm known for my job in community: <br>
 
 🔸 Administrator on the [BenBK Discord](https://discord.gg/endAzzPNrt) <br>
-~~🔸 Streamer on [Twitch](https://www.twitch.tv/linzellart) every Tuesday <br>~~
+~~🔸 Streamer on [Twitch](https://www.twitch.tv/linzellart) <br>~~
 
 ## What interests me at the moment 🌱
 
