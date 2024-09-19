@@ -11,17 +11,17 @@ Hi :wave:, I'm Charlie
 
 I'm Rust/Typescript Software Engineer
 
-I'm known for my job in community: <br>
+## Community Involvement
 
-🔸 Administrator on the [BenBK Discord](https://discord.gg/endAzzPNrt) <br>
-🔸 Streamer on [Twitch](https://www.twitch.tv/linzellart) <br>
+- Administrator on BenBK Discord (Sept. 2021 - June 2024)
 
 ## What interests me at the moment 🌱
 
-🔸 Rewrite it in Rust <br>
-🔸 Decentralized system <br>
-🔸 Blockchain <br>
-🔸 Helping in tech community <br>
+- Development of gRPC servers <br>
+- Artificial Intelligence and LLMs <br>
+- Decentralized systems <br>
+- Blockchain <br>
+- Helping the tech community  <br>
 
 ## Live Stats 📊
 
@@ -29,6 +29,20 @@ I'm known for my job in community: <br>
 <img height=200 src="https://github-readme-stats.vercel.app/api?username=linzell&show_icons=true&rank_icon=github" />
 <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=linzell&layout=compact&langs_count=8&card_width=320" />
 </p>
+
+## Recent Projects
+
+### gRPC server 🔊🖥️ (Aug 2024 - present)
+
+Development of a powerful and flexible gRPC server designed to interact with the Service Proto. Using Rust, Docker, Nix, and various technologies such as Tonic, Railway, Axum, PostgreSQL, SurrealDB, and Redis.
+
+### Actix 🦀 (June 2023 - Jan 2024)
+
+RESTful API built with Actix and SurrealDB, allowing CRUD operations for users and items.
+
+### Kiro ✍️ (Feb 2023 - May 2023)
+
+Self-hosted text editor using a decentralized network to share data between users, with co-editing features and distribution on the IPFS network.
 
 ## Hungry Lama 🔉🦙
 
@@ -55,12 +69,3 @@ I also helped several projects to be set up with some members of the community.
 
 🔸 [BenBK Discord](https://discord.gg/endAzzPNrt) <br>
 🔸 [BenBK Youtube](https://www.youtube.com/@BenBK) <br>
-
-### Twitch 🎥📺📼
-
-Realization of every Tuesday of a live [Twitch](https://www.twitch.tv/linzellart) chosen among a list of topics by the members of the community, on a topic related to the blockchain or the development world. <br>
-The lives are made available after the exchanges to help people as much as possible and a [Discord](https://discord.gg/pp6nxhtSnf) is available to answer questions or suggest next topics.
-
-🔸 [Twitch](https://www.twitch.tv/linzellart) <br>
-🔸 [Discord](https://discord.gg/pp6nxhtSnf) <br>
-🔸 [Project Kiro](https://github.com/Linzell/kiro) <br>
