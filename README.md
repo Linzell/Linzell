@@ -23,7 +23,15 @@ I'm a **Rust** and **TypeScript** Software Engineer passionate about building sc
 
 ## Featured Projects 💻
 
-### gRPC Server (Current)
+### IA vision reader project
+> Reader for PDF and image, usting IA
+- 🔧 Typescript for Frontend and Backend
+- 🐳 Docker containerization
+- 🗄️ PostgreSQL
+- 🦙 Ollama for local models
+- 🛤️ Railway deployment
+
+### gRPC Server
 > A robust gRPC server built with Rust, featuring:
 - 🔧 Tonic for gRPC implementation
 - 🐳 Docker containerization
