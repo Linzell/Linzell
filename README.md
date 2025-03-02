@@ -24,7 +24,7 @@ I'm a **Rust** and **TypeScript** Software Engineer passionate about building sc
 ## Featured Projects 💻
 
 ### IA vision reader project
-> Reader for PDF and image, usting IA
+> Reader for PDF and image, using IA
 - 🔧 Typescript for Frontend and Backend
 - 🐳 Docker containerization
 - 🗄️ PostgreSQL
