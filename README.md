@@ -5,7 +5,7 @@
 ## Connect With Me 🤝
 
 [![Bluesky](https://img.shields.io/badge/🦋_Bluesky-@linzell-blue)](https://bsky.app/profile/charlie-cohen.com)
-[![Mastodon](https://img.shields.io/mastodon/follow/109603642624824125?domain=https%3A%2F%2Ffosstodon.org%2F&style=social)](https://fosstodon.org/@linzell)
+[![Mastodon](https://img.shields.io/mastodon/follow/109603642624824125?domain=https%3A%2F%2Finfosec.exchange%2F&style=social)](https://infosec.exchange/@linzell)
 [![Twitch](https://img.shields.io/twitch/status/Linzellart?style=social)](https://www.twitch.tv/linzellart)
 ![GitHub](https://img.shields.io/github/followers/linzell?style=social)
 
